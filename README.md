@@ -17,17 +17,25 @@ The Medicine Recommendation System is designed to analyze symptoms entered by us
 🛠️ Tech Stack
 
 Backend-
+
 Python
+
 Flask
 
 Machine Learning -
+
 Scikit-learn
+
 Pandas
+
 NumPy
 
 Frontend -
+
 HTML
+
 CSS
 
 Model Storage -
+
 Pickle
